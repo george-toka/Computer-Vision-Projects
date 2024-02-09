@@ -20,4 +20,5 @@ and then  we estimate the depth of an object using pictures of two different ang
 
 <h4>Project 3</h4>
 <ins>Part 1</ins> : We perform image classification using machine learning algorithms. <br>
-<ins>Part 2</ins> : We perform image classification using convolutional networks.
+K-Means Clustering for the image feature classes. Train and test KNN and SVM models. <br>
+<ins>Part 2</ins> : We perform image classification using convolutional networks. <br>
