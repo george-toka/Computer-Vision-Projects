@@ -11,5 +11,7 @@ pepper noise), then binarise and use dilation to detect individual areas.<br>
 For the grayscale mean value we calculate the subIntegral of the image after <br>
 the calculation of the Integral Image. All filters and needed routines are <br>
 implemented by the student (moi) except for the dilation. <br>
-<br>
+
 <h4>Project 1</h4>
+<ins>Part 1</ins> : Here we have to perform image stitching between 4 images. We extract image <br>
+using SIFT or SURF and we manually stitch them. 
