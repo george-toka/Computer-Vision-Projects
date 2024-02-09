@@ -19,5 +19,5 @@ features using SIFT or SURF and we manually stitch them.<br>
 and then  we estimate the depth of an object using pictures of two different angles.<br>
 
 <h4>Project 3</h4>
-<ins>Part 1</ins> : We perform image classification using machine learning algorithms.
+<ins>Part 1</ins> : We perform image classification using machine learning algorithms. <br>
 <ins>Part 2</ins> : We perform image classification using convolutional networks.
