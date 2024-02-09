@@ -15,7 +15,9 @@ implemented by the student (moi) except for the dilation. <br>
 <h4>Project 2</h4>
 <ins>Part 1</ins> : Here we have to perform image stitching between 4 images. We extract <br>
 features using SIFT or SURF and we manually stitch them.<br>
-<ins>Part 2</ins> : We perform calibration & undistortion of our mobile phone's camera <br>
+<ins>Part 2</ins> : We perform calibration & undistortion to our mobile phone's camera <br>
 and then  we estimate the depth of an object using pictures of two different angles.<br>
 
-
+<h4>Project 3</h4>
+<ins>Part 1</ins> : We perform image classification using machine learning algorithms.
+<ins>Part 2</ins> : We perform image classification using convolutional networks.
