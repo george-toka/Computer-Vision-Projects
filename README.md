@@ -12,6 +12,10 @@ For the grayscale mean value we calculate the subIntegral of the image after <br
 the calculation of the Integral Image. All filters and needed routines are <br>
 implemented by the student (moi) except for the dilation. <br>
 
-<h4>Project 1</h4>
+<h4>Project 2</h4>
 <ins>Part 1</ins> : Here we have to perform image stitching between 4 images. We extract <br>
 features using SIFT or SURF and we manually stitch them. 
+<ins>Part 2</ins> : We perform calibration & undistortion of our mobile phone's camera and then <br>
+we estimate the depth of an object using pictures of two different angles.<br>
+
+
