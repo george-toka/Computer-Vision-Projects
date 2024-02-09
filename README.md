@@ -23,3 +23,5 @@ We want to classify animals into 5 separate classes (brown bear, camel, dolphin,
 <ins>Part 1</ins> : We perform image classification using machine learning algorithms. <br>
 K-Means Clustering for the image feature classes. Train and test KNN and SVM models. <br>
 <ins>Part 2</ins> : We perform image classification using convolutional networks. <br>
+The first model has a custom architecture of our own and the second one uses a <br>
+pre-trained model (VGG-16).
