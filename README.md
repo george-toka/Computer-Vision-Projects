@@ -13,5 +13,5 @@ the calculation of the Integral Image. All filters and needed routines are <br>
 implemented by the student (moi) except for the dilation. <br>
 
 <h4>Project 1</h4>
-<ins>Part 1</ins> : Here we have to perform image stitching between 4 images. We extract image <br>
-using SIFT or SURF and we manually stitch them. 
+<ins>Part 1</ins> : Here we have to perform image stitching between 4 images. We extract <br>
+features using SIFT or SURF and we manually stitch them. 
